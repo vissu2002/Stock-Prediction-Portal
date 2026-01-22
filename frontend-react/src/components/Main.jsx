@@ -12,7 +12,7 @@ const Main = () => {
              <h1 className='text-light'>Stock Prediction Portal</h1>
              <p className='text-light lead'>Stock Prediction Portal is a full-stack web application designed to analyze market data and generate stock price predictions using machine learning models.
 The platform offers real-time stock visualization, historical analysis, and AI-based prediction tools to help users make more informed investment decisions.</p>
-             <Button text="Login" className="btn-info" />
+             <Button text="Explore Now" className="btn-info" url="/dashboard" />
 
         </div>
     </div>
